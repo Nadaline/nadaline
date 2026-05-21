@@ -1,11 +1,19 @@
-## Hi there, it`s Júnior Nadaline here!👋
+<p align="center">
+  <a href="https://nadaline.github.io">
+    <img src="./gitbadge.png" alt="Nadaline - Eco-Evolutionary Researcher" width="400">
+  </a>
+</p>
+
+## Hi there, welcome! 👋
 
 ### My projects are focused on:
 
-- Evolutionary biology
-- Bioinformatics
-- Ecology
-- Useful tutorials for early carrier scientist workin on biodiversity data
-- Open science
+- **Evolutionary biology**
+- **Bioinformatics**
+- **Ecology**
+- **Useful tutorials** for early-career scientists working on biodiversity data
+- **Open science**
 
-Currently you can check my actvities at my gitpage  nadaline.github.io !
+---
+
+💡 *You can check out all my current projects and activities at my [gitpage](https://nadaline.github.io) (or just click on the logo above)!*
