@@ -1,12 +1,11 @@
 ## Hi there, it`s Júnior Nadaline here!👋
 
-### Personal website focused on:
+### My projects are focused on:
 
 - Evolutionary biology
 - Bioinformatics
-- Environmental consulting
-- Wildlife photography
-- Scientific tutorials
+- Ecology
+- Useful tutorials for early carrier scientist workin on biodiversity data
 - Open science
 
-Currently under development, please come back soon!
+Currently you can check my actvities at my gitpage  nadaline.github.io !
