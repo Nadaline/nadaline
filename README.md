@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nadaline.github.io">
-    <img src="./gitbadge.png" alt="Nadaline - Eco-Evolutionary Researcher" width="400">
+    <img src="./gitbadge.png" alt="Nadaline - Eco-Evolutionary Researcher" width="250">
   </a>
 </p>
 
